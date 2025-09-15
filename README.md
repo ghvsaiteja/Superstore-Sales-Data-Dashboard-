@@ -61,7 +61,6 @@ This Power BI project provides a comprehensive analysis of the sales data for a 
 This project successfully demonstrates how Power BI can be leveraged to transform raw sales data into actionable insights. The visualizations and analyses provided in this project can help stakeholders make informed decisions to drive business growth and improve operational efficiency.
 
 ## Next Steps
-- Further refine the sales forecast model for more accurate predictions.
 - Explore additional data sources to enrich the analysis.
 - Implement real-time data updates for continuous monitoring.
 
